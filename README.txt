@@ -7,7 +7,7 @@ This machine learning project is dedicated to studying regression methods, speci
 
 ## Installation
 
-To set up and run this project, follow these installatio steps:
+To set up and run this project, follow these installation steps:
 
 1. Clone this repository to your local machine:
    ```bash
